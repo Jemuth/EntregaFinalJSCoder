@@ -1,0 +1,55 @@
+{
+    "servicios": [
+        {
+            "id": 1,
+            "nombre": "Corte de Cabello Adulto",
+            "precio": 8000
+        },
+        {
+            "id": 2,
+            "nombre": "Corte de Cabello Niño",
+            "precio": 5000
+        },
+        {
+            "id": 3,
+            "nombre": "Corte y Estilizado de Barba",
+            "precio": 6000
+        },
+        {
+            "id": 4,
+            "nombre": "Corte de Cabello y Barba",
+            "precio": 12000
+        },
+        {
+            "id": 5,
+            "nombre": "Peinado Hombre",
+            "precio": 6000
+        },
+        {
+            "id": 6,
+            "nombre": "Peinado Niño",
+            "precio": 4000
+        },
+        {
+            "id": 7,
+            "nombre": "Tinte",
+            "precio": 10000
+        },
+        {
+            "id": 8,
+            "nombre": "Lavado de Cabello",
+            "precio": 4000
+        },
+        {
+            "id": 9,
+            "nombre": "Corte y Lavado de Cabello",
+            "precio": 10000
+        },
+        {
+            "id": 10,
+            "nombre" : "Tratamiento Completo",
+            "precio": 15000
+        }
+        
+    ]
+}
