@@ -252,7 +252,7 @@ function mostrarResumen() {
 
     const cantidadPagar = document.createElement('P');
     cantidadPagar.classList.add('total');
-    cantidadPagar.innerHTML = `<span>Total a pagar: </span> $${cantidad}`;
+    cantidadPagar.innerHTML = `<span>Valor referencial: </span> $${cantidad}`;
 
     resumenDiv.appendChild(cantidadPagar);
 }
