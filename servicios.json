@@ -2,53 +2,53 @@
     "servicios": [
         {
             "id": 1,
-            "nombre": "Corte de Cabello Adulto",
-            "precio": 8000
+            "nombre": "Diseño de logo",
+            "precio": 50000
         },
         {
             "id": 2,
-            "nombre": "Corte de Cabello Niño",
-            "precio": 5000
+            "nombre": "Diseño de afiche",
+            "precio": 40000
         },
         {
             "id": 3,
-            "nombre": "Corte y Estilizado de Barba",
-            "precio": 6000
+            "nombre": "Gigantografía",
+            "precio": 80000
         },
         {
             "id": 4,
-            "nombre": "Corte de Cabello y Barba",
-            "precio": 12000
+            "nombre": "Asesoría personalizada de diseño",
+            "precio": 100000
         },
         {
             "id": 5,
-            "nombre": "Peinado Hombre",
-            "precio": 6000
+            "nombre": "Set branding corporativo",
+            "precio": 40000
         },
         {
             "id": 6,
-            "nombre": "Peinado Niño",
-            "precio": 4000
+            "nombre": "Poleras personalizadas",
+            "precio": 15000
         },
         {
             "id": 7,
-            "nombre": "Tinte",
-            "precio": 10000
+            "nombre": "Sitio web simple",
+            "precio": 70000
         },
         {
             "id": 8,
-            "nombre": "Lavado de Cabello",
-            "precio": 4000
+            "nombre": "Sitio web E-commerce",
+            "precio": 200000
         },
         {
             "id": 9,
-            "nombre": "Corte y Lavado de Cabello",
-            "precio": 10000
+            "nombre": "Sitio web personalizado",
+            "precio": 300000
         },
         {
             "id": 10,
-            "nombre" : "Tratamiento Completo",
-            "precio": 15000
+            "nombre" : "Modelado 3D para impresión",
+            "precio": 50000
         }
         
     ]
