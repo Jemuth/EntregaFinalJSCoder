@@ -200,7 +200,7 @@ body{
         height:auto;
     }
 }
-.contenedor-diseno .imagenes .imagen2{
+.contenedor-diseno .imagenes .imagen3{
     position:absolute;
     width:auto;
     margin-left:auto;
@@ -211,7 +211,7 @@ body{
     margin-top:3rem;
 }
 @media (min-width:768px){
-    .contenedor-diseno .imagenes .imagen2{
+    .contenedor-diseno .imagenes .imagen3{
         scale:200%;
         margin-left:auto;
         margin-right:auto;
